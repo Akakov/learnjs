@@ -14,8 +14,9 @@
 
 ### 1. Клонируйте репозиторий на свой локальный компьютер:
 
-git clone https://github.com/Akakov/task-checker.git
-cd task-checker
+git clone https://github.com/Akakov/learnjs.git
+
+cd taskcheker 
 
 ### 2. Клонируйте репозиторий на свой локальный компьютер:
 
